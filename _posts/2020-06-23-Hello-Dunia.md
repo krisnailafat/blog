@@ -5,6 +5,7 @@ article_header:
   type: cover
   image:
     src: /assets/post/image_krisna.png
+key: Hello-Dunia
 ---
  # Perkenalan perkenalkan
 Halo semua nya. Jadi ini masih awal awal gw post.
