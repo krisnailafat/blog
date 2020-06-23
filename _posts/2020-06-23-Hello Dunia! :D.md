@@ -1,10 +1,10 @@
 ---
-title: Post with Header Image
+title: Hello Dunia! :D
 tags: story
 article_header:
   type: cover
   image:
-    src: ../assets/post/image_krisna.png
+    src: /assets/post/image_krisna.png
 ---
 
 Halo semua nya. Jadi ini masih awal awal gw post.
